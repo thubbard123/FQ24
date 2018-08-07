@@ -25,8 +25,7 @@
       Link="/Content/B_Feature Topics/Feature3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/C_Procedure Topics/Procedures.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/C_Procedure Topics/test.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
